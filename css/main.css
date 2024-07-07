@@ -301,6 +301,10 @@ main p {
     justify-content: space-between;
 }
 
+.clients img {
+    object-fit: cover;
+}
+
 .nos-clients p i {
     background-color: var(--yellow-color);
     color: white;
