@@ -309,6 +309,10 @@ main p {
     cursor: pointer;
 }
 
+.localisation {
+    color: var(--yellow-color);
+}
+
 /* END CLIENTS */
 /* START FOOTER */
 .footer {
